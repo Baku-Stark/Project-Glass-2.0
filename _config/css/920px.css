@@ -1,0 +1,12 @@
+@media (max-width: 920px){
+    /*--- CONFIGURAÇÃO [BODY] ---*/
+    .container-statistics{
+        width: 75%;
+    }
+
+    img.picture-content{
+        width: 100%;
+        height: 50vh;
+    }
+    /*--- CONFIGURAÇÃO [BODY] ---*/
+}
