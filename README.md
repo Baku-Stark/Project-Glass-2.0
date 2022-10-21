@@ -1,10 +1,19 @@
 # 🖥️ | Project Glass (2.0)
 > Status do projeto:
 
-**[❌] - PROJECT IN PROGRESS**
+<br>
+
+**PROJECT IN PROGRESS**
+* [❌] - Página Inicial
+* [❌] - Especificações
+* [❌] - Fotos
+* [❌] - Multimídia
+* [❌] - Contato
+
 <br>
 <br>
 <br>
+
 # 🖥️ | Aplicações Do Projeto
 Estrutura Do Site | Framework | Linguagem
 --- | --- | ---
