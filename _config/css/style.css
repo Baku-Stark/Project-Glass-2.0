@@ -78,11 +78,11 @@ a.nav-link:hover{
 body.light-mode{
     transition: 0.2s ease-in-out;
     color: #111111;
-    background-color: #f0f8ff;
 }
 
 main{
     margin-top: 55px;
+    background-color: #d1d7dd;
 }
 
 section.main{
@@ -171,7 +171,6 @@ p.conte-content{
 section.section-cards{
     width: 100%;
     margin-top: 50px;
-    margin-bottom: 50px;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
@@ -233,9 +232,9 @@ td.table-content{
 footer.cabecalho{
     width: 100%;
     font-size: 20pt;
-    margin-top: 20px;
     font-weight: bold;
     text-align: center;
+    box-shadow: 0 -20px 20px #00000079;
 }
 
 footer.cabecalho > p{
