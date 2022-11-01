@@ -4,13 +4,12 @@
 <br>
 
 **PROJECT IN PROGRESS**
-* [❌] - Página Inicial
+* [✔️] - Página Inicial
 * [❌] - Especificações
 * [❌] - Fotos
 * [❌] - Multimídia
 * [❌] - Contato
 
-<br>
 <br>
 <br>
 

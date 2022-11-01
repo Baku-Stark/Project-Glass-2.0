@@ -1,0 +1,7 @@
+@media (max-width: 480px){
+    /*--- CONFIGURAÇÃO [FOOTER] ---*/
+    footer.cabecalho > p{
+        font-size: 0.9em;
+    }
+    /*--- CONFIGURAÇÃO [FOOTER] ---*/
+}
