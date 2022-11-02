@@ -1,7 +1,33 @@
 @media (max-width: 480px){
-    /*--- CONFIGURAÇÃO [FOOTER] ---*/
-    footer.cabecalho > p{
-        font-size: 0.9em;
+    /*--- CONFIGURAÇÃO [BODY] ---*/
+    iframe.yt-frame{
+        width: 350px;
+        height: 250px;
     }
+    /*--- CONFIGURAÇÃO [BODY] ---*/
+    
+    /*--- CONFIGURAÇÃO [FOOTER] ---*/
+    footer.cabecalho{
+        height: 30vh;
+    }
+
+    /*--- [left-content] ---*/
+    div.left-content > p{
+        font-size: 0.8em;
+    }
+    article.links-hover > a:nth-child(1){
+        margin-left: 0;
+    }
+
+    article.links-hover > a > i.bi{
+        font-size: 1.2em;
+    }
+    /*--- [left-content] ---*/
+
+    /*--- [right-content] ---*/
+    div.right-content > p{
+        font-size: 0.5em;
+    }
+    /*--- [right-content] ---*/
     /*--- CONFIGURAÇÃO [FOOTER] ---*/
 }
