@@ -1,3 +1,4 @@
+/*--- CONFIGURAÇÃO [LAPTOPS] ---*/
 @media (max-width: 920px){
     /*--- CONFIGURAÇÃO [BODY] ---*/
     .container-statistics{
@@ -21,4 +22,26 @@
         width: 100%;
     }
     /*--- CONFIGURAÇÃO [BODY] ---*/
+
+    /*--- CONFIGURAÇÃO [ESPECIFICAÇÕES] ---*/
+    td.specs-2 > span.specs-2-title{
+        font-size: 0.9em;
+    }
+
+    td.specs-2 > span.specs-2-desc{
+        font-size: 0.67em;
+    }
+
+    tr > td.table-content.specs-2{
+        font-size: 0.9em;
+    }
+    /*--- CONFIGURAÇÃO [ESPECIFICAÇÕES] ---*/
+
+    /*--- CONFIGURAÇÃO [FOOTER] ---*/
+    /*--- [left-content] ---*/
+    div.left-content > p{
+        font-size: 0.9em;
+    }
+    /*--- [left-content] ---*/
+    /*--- CONFIGURAÇÃO [FOOTER] ---*/
 }

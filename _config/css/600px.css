@@ -1,10 +1,25 @@
-@media (max-width: 480px){
+/*--- CONFIGURAÇÃO [PHONES] ---*/
+@media (max-width: 600px){
     /*--- CONFIGURAÇÃO [BODY] ---*/
     iframe.yt-frame{
         width: 350px;
         height: 250px;
     }
     /*--- CONFIGURAÇÃO [BODY] ---*/
+
+    /*--- CONFIGURAÇÃO [ESPECIFICAÇÕES] ---*/
+    td.specs-2 > span.specs-2-title{
+        font-size: 0.7em;
+    }
+
+    td.specs-2 > span.specs-2-desc{
+        font-size: 0.51em;
+    }
+
+    tr > td.table-content.specs-2{
+        font-size: 0.69em;
+    }
+    /*--- CONFIGURAÇÃO [ESPECIFICAÇÕES] ---*/
     
     /*--- CONFIGURAÇÃO [FOOTER] ---*/
     footer.cabecalho{
@@ -15,6 +30,7 @@
     div.left-content > p{
         font-size: 0.8em;
     }
+
     article.links-hover > a:nth-child(1){
         margin-left: 0;
     }

@@ -1,1 +1,25 @@
 /*--- CONFIGURAÇÃO [ESPECIFICAÇÕES] ---*/
+table.specs-2{
+    height: 95vh;
+}
+
+tr > td.specs-2{
+    width: 45%;
+}
+
+td.specs-2 > span.specs-2-title{
+    font-size: 1.5em;
+}
+
+td.specs-2 > span.specs-2-desc{
+    font-size: 0.8em;
+    font-style: italic;
+    color: #5f9efc;
+}
+
+tr > td.table-content.specs-2{
+    padding: 5px;
+    font-size: 1em;
+    text-align: left;
+}
+/*--- CONFIGURAÇÃO [ESPECIFICAÇÕES] ---*/

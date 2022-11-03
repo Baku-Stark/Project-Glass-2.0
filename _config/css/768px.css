@@ -1,0 +1,16 @@
+/*--- CONFIGURAÇÃO [TABLET] ---*/
+@media (max-width: 768px) {
+    /*--- CONFIGURAÇÃO [ESPECIFICAÇÕES] ---*/
+    td.specs-2 > span.specs-2-title{
+        font-size: 0.8em;
+    }
+
+    td.specs-2 > span.specs-2-desc{
+        font-size: 0.59em;
+    }
+
+    tr > td.table-content.specs-2{
+        font-size: 0.84em;
+    }
+    /*--- CONFIGURAÇÃO [ESPECIFICAÇÕES] ---*/
+}
