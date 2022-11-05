@@ -13,4 +13,20 @@
         font-size: 0.84em;
     }
     /*--- CONFIGURAÇÃO [ESPECIFICAÇÕES] ---*/
+
+    /*--- CONFIGURAÇÃO [FOTOS] ---*/
+    div.layer-image{
+        margin-top: 150px;
+    }
+
+
+    div.layer-glass-images{
+        width: 150px;
+        height: 150px;
+    }
+    span.layer-text{
+        line-height: 10px;
+        padding: 5px;
+    }
+    /*--- CONFIGURAÇÃO [FOTOS] ---*/
 }

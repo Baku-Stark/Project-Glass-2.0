@@ -1,2 +1,108 @@
 /*--- CONFIGURAÇÃO [FOTOS] ---*/
+div.layer-image{
+    margin-top: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+div.layer-glass-images{
+    width: 200px;
+    height: 200px;
+    border: 5px solid #f0f8ff;
+    box-shadow: 3px 3px 10px #00000079;
+}
+
+span.layer-text{
+    opacity: 0;
+    line-height: 10px;
+    padding: 5px;
+    font-size:0.8em;
+    color: #f0f8ff;
+    background-color: #1111117e;
+}
+
+div.layout-01{
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-image: url('../images/01.jpg');
+}
+
+div.layout-02{
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-image: url('../images/02.jpg');
+}
+
+div.layout-03{
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-image: url('../images/03.jpg');
+}
+
+div.layout-04{
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-image: url('../images/04.jpg');
+}
+
+div.layout-05{
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-image: url('../images/05.jpg');
+}
+
+div.layout-06{
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-image: url('../images/06.jpg');
+}
+
+/*---- [HOVER] ----*/
+div.layer-glass-images:hover span.layer-text{
+    transition: 0.5s ease-in-out;
+    opacity: 1;
+}
+
+div.layout-01:hover{
+    transform: scale(1.5);
+    background-size: 200px 200px;
+    background-position: 100% 100%;
+    transition: 0.5s ease-in-out;
+}
+
+div.layout-02:hover{
+    transform: scale(1.5);
+    background-size: 200px 200px;
+    background-position: 100% 100%;
+    transition: 0.5s ease-in-out;
+}
+
+div.layout-03:hover{
+    transform: scale(1.5);
+    background-size: 200px 200px;
+    background-position: 100% 100%;
+    transition: 0.5s ease-in-out;
+}
+
+div.layout-04:hover{
+    transform: scale(1.5);
+    background-size: 200px 200px;
+    background-position: 100% 100%;
+    transition: 0.5s ease-in-out;
+}
+
+div.layout-05:hover{
+    transform: scale(1.5);
+    background-size: 200px 200px;
+    background-position: 100% 100%;
+    transition: 0.5s ease-in-out;
+}
+
+div.layout-06:hover{
+    transform: scale(1.5);
+    background-size: 200px 200px;
+    background-position: 100% 100%;
+    transition: 0.5s ease-in-out;
+}
 /*--- CONFIGURAÇÃO [FOTOS] ---*/

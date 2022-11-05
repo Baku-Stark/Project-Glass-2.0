@@ -17,9 +17,28 @@
     }
 
     tr > td.table-content.specs-2{
-        font-size: 0.69em;
+        font-size: 0.68em;
     }
     /*--- CONFIGURAÇÃO [ESPECIFICAÇÕES] ---*/
+
+    /*--- CONFIGURAÇÃO [FOTOS] ---*/
+    div.layer-image{
+        margin-top: 200px;
+    }
+
+    div.layer-glass-images{
+        width: 100px;
+        height: 100px;
+    }
+
+    span.layer-text{
+        line-height: 10px;
+        padding: 5px;
+        font-size: 0.42em;
+        color: #f0f8ff;
+        background-color: #1111117e;
+    }
+    /*--- CONFIGURAÇÃO [FOTOS] ---*/
     
     /*--- CONFIGURAÇÃO [FOOTER] ---*/
     footer.cabecalho{
