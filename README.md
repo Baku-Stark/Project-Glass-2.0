@@ -6,7 +6,7 @@
 **PROJECT IN PROGRESS**
 * [✔️] - Página Inicial
 * [✔️] - Especificações
-* [❌] - Fotos
+* [✔️] - Fotos
 * [❌] - Multimídia
 * [❌] - Contato
 
