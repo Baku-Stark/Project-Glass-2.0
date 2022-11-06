@@ -37,6 +37,12 @@
     }
     /*--- CONFIGURAÇÃO [ESPECIFICAÇÕES] ---*/
 
+    /*--- CONFIGURAÇÃO [FALE CONOSCO] ---*/
+    section.main-content-2-0{
+        height: 220vh;
+    }
+    /*--- CONFIGURAÇÃO [FALE CONOSCO] ---*/
+
     /*--- CONFIGURAÇÃO [FOOTER] ---*/
     /*--- [left-content] ---*/
     div.left-content > p{
