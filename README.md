@@ -8,7 +8,7 @@
 * [✔️] - Especificações
 * [✔️] - Fotos
 * [❌] - Multimídia
-* [❌] - Contato
+* [✔️] - Contato
 
 <br>
 <br>
