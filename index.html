@@ -100,10 +100,10 @@
                         <br>O vídeo de divulgação do Google mostra que você pode se transformar em uma espécie de “super-humano”, já que o aparelho pode indicar a quantos metros você está de seu destino, se o metrô está aberto ou fechado, mostrar o clima, agenda e até mesmo permitir que você marque encontros apenas com comandos de voz.
                     </p>
                 </article>
-                <aside class="conte-content">
+                <aside>
                     <img 
                         src="_config/images/google_glass-front.jpg"
-                        alt=""
+                        alt="Google Glass Wallpaper"
                         class="picture-content">
                 </aside>
             </div>
@@ -274,8 +274,54 @@
             <h2 class="title-content">Multimídia</h2>
         </section>
         <!-- _config/css/contato.css -->
-        <section id="contato" class="main-content-2">
+        <section id="contato" class="main-content-2-0">
             <h2 class="title-content">Fale Conosco</h2>
+            <div class="section-contacts conte-content">
+                <div class="contacts">
+                    <form>
+                        <h3>Identificação do Usuário</h3>
+                        <label for="nome">Nome*</label>
+                        <input type="text" name="nome" id="nome"
+                            placeholder="Nome Completo">
+
+                        <label for="senha">Senha*</label>
+                        <input type="password" name="senha" id="senha">
+
+                        <label for="email">E-mail*</label>
+                        <input type="email" name="email" id="email"
+                                placeholder="email@example.com">
+                    </form>
+                </div>
+                <div class="contacts">
+                    <form>
+                        <h3>Endereço do Usuário</h3>
+                        <label for="residencia">Residência*</label>
+                        <input type="text" name="residencia" id="residencia">
+
+                        <label for="numero">Número*</label>
+                        <input type="number" name="numero" id="numero" min="0">
+
+                        <label for="estado">Estado*</label>
+                        <select name="estado" id="estado">
+                            <option value="RJ">Rio de Janeiro</option>
+                            <option value="SP">São Paulo</option>
+                            <option value="MG">Minas Gerais</option>
+                        </select>
+                    </form>
+                </div>
+                <div class="contacts">
+                    <form>
+                        <h3>Especificações do Usuário</h3>
+                        <label for="color">Cor*</label>
+                        <input type="color" name="color" id="color">
+
+                        <label for="qtd">Quantidade*</label>
+                        <input type="number" name="qtd" id="qtd" min="0" max="10">
+                        <label for="message">Mensagem*</label>
+                        <textarea name="message" id="message" cols="30" rows="10"></textarea>
+                    </form>
+                </div>
+            </div>
         </section>
     </main>
     <footer class="cabecalho">

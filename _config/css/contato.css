@@ -1,2 +1,44 @@
 /*--- CONFIGURAÇÃO [FALE CONOSCO] ---*/
+section.main-content-2-0{
+    width: 100%;
+    height: 215vh;
+    padding: 70px 50px;
+    margin-top: 150px;
+}
+
+div.contacts > form{
+    padding: 20px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #111111;
+    background-color: #d3d3d3be;
+    backdrop-filter: blur(20px);
+}
+
+div.contacts > form >h3{
+    font-size: 1.5em;
+    color: #111111;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+div.contacts > form >label{
+    font-size: 1em;
+    margin-top: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+div.contacts > form >input[type='text'], input[type='password'], input[type='email'],
+input[type="number"], select#estado{
+    padding: 4px;
+    width: 250px;
+    border-radius: 20px;
+}
+
+form > textarea#message{
+    width: 100%;
+    padding: 5px 0 0 5px;
+    border-radius: 10px;
+}
 /*--- CONFIGURAÇÃO [FALE CONOSCO] ---*/
