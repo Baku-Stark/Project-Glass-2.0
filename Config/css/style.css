@@ -1,12 +1,12 @@
 /*--- FONTES PERSONALIZADAS ---*/
 @font-face {
     font-family: 'Title';
-    src: url('../_fonts/nasalization-rg.otf') format('opentype');
+    src: url('../Fonts/nasalization-rg.otf') format('opentype');
 }
 
 @font-face {
     font-family: 'Subtitle';
-    src: url('../_fonts/Teko-Bold.ttf') format('truetype');
+    src: url('../Fonts/Teko-Bold.ttf') format('truetype');
 }
 /*--- FONTES PERSONALIZADAS ---*/
 
