@@ -1,2 +1,14 @@
 /*--- CONFIGURAÇÃO [MULTIMIDIA] ---*/
+div.video-multi{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+div.video-multi > iframe{
+    width: 100%;
+    height: 100vh;
+}
 /*--- CONFIGURAÇÃO [MULTIMIDIA] ---*/
