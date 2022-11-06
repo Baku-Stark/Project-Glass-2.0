@@ -7,7 +7,7 @@
 * [✔️] - Página Inicial
 * [✔️] - Especificações
 * [✔️] - Fotos
-* [❌] - Multimídia
+* [✔️] - Multimídia
 * [✔️] - Contato
 
 <br>
